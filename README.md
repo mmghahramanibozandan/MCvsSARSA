@@ -31,6 +31,7 @@ card)
 - If the player’s sum exceeds 21, or becomes less than 1, then he “goes
 bust” and loses the game, with a reward of -1
 
+![MC](https://github.com/mmghahramanibozandan/MCvsSARSA/blob/main/download.png)
 
 - If the player sticks then the dealer starts taking turns, same rules apply to him. The dealer always
 sticks on any sum of 17 or greater, and hits otherwise. If the dealer goes
